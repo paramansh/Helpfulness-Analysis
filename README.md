@@ -1,5 +1,6 @@
 # Helpfulness-Analysis
 
+
 ### Notebooks
 __aspect_extraction.ipynb__: Extracting aspects and plot the relation between number 
 of aspects and helpfulness score. 
@@ -41,3 +42,6 @@ __generate_data[*].sh__: To process data in batches and store dataframes as pick
 Calls generate_data[*].py.
 
 __generate_data[*].py__: Process data to extract what is required for each batch.
+
+### Analysis Reports
+https://drive.google.com/open?id=1Ho8UWx7---IsOklX08aljAuExqqG3joJ
